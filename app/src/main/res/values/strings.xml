@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hello Weather</string>
+    <string name="headline">Hello Weather</string>
+    <string name="subHead">WeatherApp</string>
+    <string name="btn">Go it!</string>
+    <string name="sunny">sunny</string>
+    <string name="partlysunny">partly sunny</string>
+    <string name="cloudy">cloudy</string>
+    <string name="rainy">rainy</string>
+    <string name="lon"> </string>
+    <string name="lat"> </string>
+</resources>
